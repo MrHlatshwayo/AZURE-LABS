@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "7a42cedcfceec9df",
+    "type": "split",
+    "children": [
+      {
+        "id": "047330fbdea7b413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a147fca71c470e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day-02-create-an-azure-virtual-machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day-02-create-an-azure-virtual-machine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "729a18d649d74d83",
+    "type": "split",
+    "children": [
+      {
+        "id": "23f8172081711967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "203772e3045393a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c84e45e4845af3b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15e6c39c649bf973",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6aa21bd85739878",
+    "type": "split",
+    "children": [
+      {
+        "id": "67e37209e38ff5a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81a185ca08e9e64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "day-02-create-an-azure-virtual-machine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3dbb2737391d5e0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "day-02-create-an-azure-virtual-machine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a3c86eb817f8d00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e56673bc55a6cf64",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a545bfe48eda684b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "day-02-create-an-azure-virtual-machine.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a147fca71c470e8e",
+  "lastOpenFiles": [
+    "day-03-create-vm-using-azure-cli.md",
+    "day-02-create-an-azure-virtual-machine.md",
+    "Screenshot 2026-11-13 132811.png",
+    "Pasted image 20261113131721.png",
+    "Pasted image 20261113130210.png",
+    "Pasted image 20261113130001.png",
+    "Pasted image 20261113125827.png",
+    "Pasted image 20261113125725.png",
+    "Pasted image 20261113125317.png",
+    "Pasted image 20261113125045.png",
+    "Pasted image 20261113124609.png",
+    "Pasted image 20261113124523.png",
+    "day-01-create-ssh-key-pair-for-azure-virtual-machine.md"
+  ]
+}
